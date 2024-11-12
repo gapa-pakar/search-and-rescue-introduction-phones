@@ -1,0 +1,1337 @@
+@media only screen and (max-width: 1670px) {
+    #def1-exp {
+        bottom: 16rem;
+        left: 20rem;
+    }
+
+    #def2-exp {
+        bottom: 12.5rem;
+        left: 26.5rem;
+        width: 12rem;
+    }
+
+    .st-baf {
+        left: 36.3%;
+    }
+    
+    .st-bah {
+        left: 41.3%;
+    }
+    
+    .st-school {
+        left: 57.1%;
+    }
+}
+
+@media only screen and (max-width: 1600px) {
+    .st-school {
+        left: 57.1%;
+    }
+
+    .buildingvid {
+        width: 20rem;
+        height: 12rem;
+        top: 7rem;
+    }
+
+    .daysvid {
+        width: 20rem;
+        height: 12rem;
+        top: 7rem;
+    }
+
+    .abachvid {
+        width: 20rem;
+        height: 12rem;
+        top: 7rem;
+    }
+
+    .batashvid {
+        width: 20rem;
+        height: 12rem;
+        top: 7rem;
+    }
+
+    .flip-card-container {
+        bottom: 9.5rem;
+    }
+
+    #def2-exp {
+        bottom: 13.5rem;
+        left: 22.5rem;
+        width: 12rem;
+    }
+
+    #def3-exp {
+        bottom: 11rem;
+        left: 2rem;
+        width: 18rem;
+    }
+
+    #def4-exp {
+        bottom: 15rem;
+        left: 24rem;
+        width: 12rem;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+
+    #sub-title-roles {
+        top: 10rem
+    }
+
+    .routine-roles {
+        right: 50%;
+        transform: translateX(50%);
+        top: 6rem;
+    }
+
+    .emergency-roles {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 15rem;
+    }
+
+    #rolesErrorText {
+        top: 17rem;
+    }
+
+    .polaroid {
+        width: 19.3rem;
+        height: 13.8rem;
+        left: -0.24rem;
+        top: 8rem;
+    }
+
+    .roles-img {
+        width: 14.1rem;
+        height: 9.5rem;
+        left: 1.4rem;
+        top: 9.8rem;
+    }
+
+    .tape {
+        width: 1.5rem;
+        top: 8rem;
+        left: 7.5rem;
+    }
+
+    #rescueCarousel {
+        width: 14.1rem;
+        position: absolute;
+        left: 1.3rem;
+        top: 9.9rem;
+        z-index: 3;
+    }
+
+    .buildingvid {
+        width: 17rem;
+        height: 10rem;
+        top: 8rem;
+        left: 1rem;
+    }
+
+    .daysvid {
+        width: 17rem;
+        height: 10rem;
+        top: 8rem;
+        left: 1rem;
+    }
+
+    .abachvid {
+        width: 17rem;
+        height: 10rem;
+        top: 8rem;
+        left: 1rem;
+    }
+
+    .batashvid {
+        width: 17rem;
+        height: 10rem;
+        top: 8rem;
+        left: 1rem;
+    }
+
+    .st-bah {
+        left: 38%;
+    }
+
+    .st-baf {
+        left: 32.8%;
+    }
+
+    .st-school {
+        left: 60%;
+    }
+
+    .st-gdudim {
+        left: 49.7%;
+    }
+
+    #def1-exp {
+        bottom: 11rem;
+        left: 17rem;
+    }
+
+    #def2-exp {
+        bottom: 15.5rem;
+        left: 17.5rem;
+        width: 12rem;
+    }
+
+    #def3-exp {
+        bottom: 12rem;
+        left: 18rem;
+        width: 18rem;
+    }
+
+    #def4-exp {
+        bottom: 17rem;
+        left: 19rem;
+        width: 12rem;
+    }
+
+    #def6-exp {
+        bottom: 10.5rem;
+        right: 13rem;
+        width: 18rem;
+    }
+
+    #def5-exp {
+        bottom: 9.5rem;
+        right: 13rem;
+        width: 18rem;
+    }
+
+    #def7-exp {
+        bottom: 10.5rem;
+        left: 16rem;
+        width: 13rem;
+    }
+
+    #def9-exp {
+        bottom: 11.5rem;
+        left: 16rem;
+        width: 12rem;
+    }
+
+    #def8-exp {
+        bottom: 10.5rem;
+        left: 15rem;
+        width: 13rem;
+    }
+
+    #connect-check-btn {
+        margin-top: 0rem;
+    }
+
+    .flip-card-container {
+        bottom: 8.5rem;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .line {
+        font-size: 0.9rem;
+    }
+
+    .open-text {
+        width: 30rem;
+    }
+
+    .enlistingvid {
+        top: 4rem;
+        width: 25rem;
+        height: 14rem;
+    }
+
+    .nafavid {
+        top: 5rem;
+        width: 25rem;
+        height: 14rem;
+    }
+
+    .turkeyvid {
+        top: 8rem;
+        width: 28rem;
+        height: 16rem;
+    }
+
+    .polaroid {
+        width: 15.3rem;
+        height: 11rem;
+        left: -0.24rem;
+        top: 9rem;
+    }
+
+    #rescueCarousel {
+        width: 11.2rem;
+        left: 11.2rem;
+        top: 15.5rem;
+    }
+
+    .choose-card {
+        height: 3rem;
+    }
+
+    .choose-card-container {
+        margin-bottom: 0.5rem;
+    }
+
+    #choose-check-btn {
+        margin: 0.5rem auto;
+    }
+
+    .routine-roles {
+        top: 7rem;
+    }
+
+    .emergency-roles {
+        top: 15rem;
+    }
+    
+    .roles-img {
+        width: 11.2rem;
+        height: 7.5rem;
+        left: 1rem;
+        top: 10.5rem;
+    }
+
+    .polaroid {
+        top: 14rem;
+        left: 10rem;
+    }
+    
+    .tape {
+        width: 1rem;
+        top: 14.4rem;
+        left: 17rem;
+    }
+
+    .roles-img {
+        top: 26.5rem;
+        left: 11.2rem;
+    }
+    
+    .st-bah {
+        left: 39%;
+    }
+    
+    .st-baf {
+        left: 32.7%;
+    }
+    
+    .st-gdudim {
+        left: 50.7%;
+    }
+    
+    .st-school {
+        left: 59.4%;
+    }
+    
+    .bahad16text {
+        font-size: 0.9rem;
+    }
+    
+    .branch-img {
+        height: 4rem;
+    }
+    
+    .buildingvid, .daysvid, .abachvid, .batashvid {
+        width: 17rem;
+        height: 10rem;
+        top: 10rem;
+        left: 2rem;
+    }
+    
+    #next-btn-3, #next-btn-13, .next-btn-timeline {
+        bottom: 2rem;
+    }
+    
+    #next-btn-7 {
+        bottom: 3rem;
+    }
+    
+    .structure-details {
+        width: 34rem;
+        top: 5rem;
+    }
+    
+    .details-conteiner {
+        width: 27rem;
+    }
+    
+    #bah-details .details-img {
+        width: 4rem;
+    }
+    
+    .next-right {
+        left: 28rem;
+    }
+    
+    #gdudim-details > .details-conteiner {
+        width: 30rem;
+    }
+    
+    #def1-exp {
+        bottom: 12rem;
+        left: 16rem;
+    }
+    
+    #def2-exp {
+        bottom: 16.5rem;
+        left: 13.5rem;
+        width: 12rem;
+    }
+    
+    #def3-exp {
+        bottom: 14rem;
+        left: 12rem;
+        width: 18rem;
+    }
+    
+    #def4-exp {
+        bottom: 19rem;
+        left: 15rem;
+        width: 12rem;
+    }
+
+    .container {
+        width: 32rem;
+        height: 20rem;
+        top: 56%;
+    }
+
+    ol {
+        margin-bottom: 0;
+    }
+}    
+
+@media only screen and (max-width: 1050px) {
+    #next-btn-2 {
+        bottom: -3rem;
+    }
+
+    #next-btn-7 {
+        bottom: 1rem;
+    }
+
+    .connect-question-container {
+        width: 100%;
+    }
+    
+    .organizing-drop-zone {
+        width: 47%;
+        padding: 0.5rem 0rem;
+    }
+
+    .organizing-word {
+        margin: 0.15rem;
+        width: calc(48% - 1rem);
+    }
+    
+    .structure-details {
+        top: 4rem;
+    }
+
+    .large-connect-card {
+        padding: 0.2rem;
+    }
+
+    .st-school {
+        left: 59.4%;
+    }
+}
+
+@media only screen and (max-width: 970px) {
+    .line {
+        font-size: 0.8rem;
+    }
+
+    .branch-img {
+        height: 3rem;
+    }
+
+    #branches {
+        font-size: 0.9rem;
+        width: 100%;
+        position: relative;
+        left: 1rem;
+    }
+
+    #branch-explaination {
+        font-size: 0.9rem;
+    }
+
+    .structure-details {
+        width: 30rem;
+        top: 6rem;
+        height: 23rem;
+    }
+
+    .hativa-text {
+        width: 26rem;
+    }
+
+    .details-conteiner {
+        width: 23rem;
+    }
+
+    #bah-details .details-img {
+        width: 3rem;
+    }
+
+    #baf-details .details-img {
+        width: 4.5rem;
+    }
+
+    .next-right {
+        left: 24rem;
+    }
+
+    #gdudim-details > .details-conteiner {
+        width: 28rem;
+    }
+
+    #def1-exp {
+        bottom: 14rem;
+        left: 13rem;
+    }
+
+    #def2-exp {
+        bottom: 15.5rem;
+        left: 10.5rem;
+        width: 12rem;
+    }
+
+    #def3-exp {
+        bottom: 17rem;
+        left: 7rem;
+        width: 18rem;
+    }
+
+    #def4-exp {
+        bottom: 21rem;
+        left: 13rem;
+        width: 12rem;
+    }
+
+    .open-text {
+        width: 37rem;
+        font-size: 0.9rem;
+    }
+
+    #next-btn-2 {
+        bottom: -2rem;
+    }
+
+    #timeline-magal-img.timeline-symbol-img {
+        height: 4.5rem;
+    }
+    
+    .connect-question-container {
+        top: 2.2rem;
+    }
+
+    .turkeyvid {
+        top: 7rem;
+    }
+
+    .buildingvid {
+        top: 20rem;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .corona-text.roles-text {
+        width: 15rem;
+        font-size: 0.8rem;
+        line-height: 1.4rem;
+    }
+
+    .sentence-question-container {
+        top: 2rem;
+    }
+
+    .sentence {
+        margin: 0rem 0;
+    }
+
+    .sentence-word-bank {
+        margin: 0rem 0;
+    }
+
+    .st-structure {
+        height: 8.5rem;
+        width: 23rem;
+        top: 6.3rem;
+        left: 50%;
+    }
+
+    .st-hativa {
+        top: 2rem;
+        width: 2.5rem;
+    }
+    
+    .st-bah {
+        width: 3rem;
+        top: 6rem;
+        left: 37%;
+    }
+
+    .st-baf {
+        width: 4rem;
+        left: 30.3%;
+        top: 10rem;
+    }
+
+    .st-school {
+        width: 4.5rem;
+        top: 7.5rem;
+        left: 61.5%;
+    }
+
+    .st-gdudim {
+        width: 11.4rem;
+        top: 15rem;
+        left: 50%;
+    }
+
+    .explain-structure {
+        top: 17rem;
+    }
+
+    .structure-details {
+        width: 37rem;
+        top: 4rem;
+        height: 19rem;
+    }
+    
+    @keyframes hativaSymbolLarger {
+        0% {
+            width: 3rem;
+            top: 1rem;
+            left: 1rem;
+        } 
+        100% {
+            width: 9rem;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    }
+
+    @keyframes hativaSymbolSmaller {
+        0% {
+            width: 9rem;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        } 
+        100% {
+            transform: translate(0%, 0%);
+            width: 3rem;
+            top: 1rem;
+            left: 1rem;
+        }
+    }
+
+    .next-left {
+        bottom: -9rem;
+    }
+
+    .next-right {
+        left: 38rem;
+    }
+
+    #hativa-sym-exp {
+        width: 22rem;
+    }
+
+    .details-conteiner {
+        width: 30rem;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+    .open-text {
+        width: 25rem;
+    }
+
+    .main-title {
+        font-size: 2.5rem;
+    }
+
+    .enlistingvid {
+        top: 12rem;
+        width: 20rem;
+        height: 12rem;
+    }
+
+    .branch-img {
+        height: 2rem;
+    }
+    
+    .connect-year-container, .connect-event-container {
+        width: 22rem;
+        position: relative;
+        right: 1rem;
+    }
+
+    #rescueCarousel {
+        right: 1.9rem;
+    }
+
+    .corona-text.roles-text {
+        width: 12rem;
+        font-size: 0.8rem;
+        line-height: 1rem;
+    }
+
+    .polaroid {
+        right: -1rem;
+        top: 22.8rem;
+    }
+
+    .tape {
+        right: 7rem;
+    }
+
+    .roles-img {
+        right: 1.9rem;
+    }
+
+    .roles-text {
+        width: 23rem;
+    }
+
+    .buildingvid {
+        width: 18rem;
+        height: 10rem;
+        top: 20rem;
+        right: 2rem;
+    }
+
+    .daysvid {
+        width: 17rem;
+        height: 10rem;
+        top: 20rem;
+        left: 5rem;
+    }
+
+    .abachvid {
+        left: 4rem;
+        width: 18rem;
+    }
+
+    .batashvid {
+        left: 4rem;
+        width: 18rem;
+    }
+
+    .st-structure {
+        height: 8.5rem;
+        width: 20rem;
+    }
+    
+    .st-bah {
+        width: 3.4rem;
+        left: 33%;
+    }
+
+    .st-baf {
+        width: 4.5rem;
+        left: 25%;
+    }
+
+    .st-school {
+        width: 5.5rem;
+        left: 62%;
+    }
+
+    .st-gdudim {
+        width: 11rem;
+        top: 15rem;
+    }
+
+    .details-title {
+        top: 1.3rem;
+        width: 16rem;
+    }
+
+    .structure-details {
+        width: 24rem;
+        height: 29rem;
+    }
+
+    .hativa-text {
+        width: 24rem;
+        top: 5rem;
+    }
+
+    .details-conteiner {
+        width: 17rem;
+    }
+
+    #school-details > .details-conteiner {
+        width: 17rem;
+        top: 6rem;
+    }
+
+    .matachim-img {
+        width: 3rem;
+    }
+
+    #school-details-img {
+        width: 3rem;
+    }
+
+    .next-right {
+        left: 18rem;
+    }
+
+    #gdudim-details > .details-conteiner {
+        width: 24rem;
+    }
+
+    .structure-details-gdud-shahar, .structure-details-gdud-tavor, .structure-details-gdud-kedem, .structure-details-gdud-ram {
+        width: 6rem;
+    }
+
+    .structure-details-gdud-shahar-exp, .structure-details-gdud-tavor-exp, .structure-details-gdud-kedem-exp, .structure-details-gdud-ram-exp {
+        width: 15rem;
+        top: 1.4rem;
+    }
+
+    #def1-exp {
+        bottom: 13rem;
+        left: 10rem;
+    }
+
+    #def2-exp {
+        bottom: 15.5rem;
+        left: 8.5rem;
+        width: 12rem;
+    }
+
+    #def3-exp {
+        bottom: 18rem;
+        left: 4rem;
+        width: 18rem;
+    }
+
+    #def4-exp {
+        bottom: 22rem;
+        left: 10rem;
+        width: 12rem;
+    }
+
+    .roles-img {
+        width: 11.2rem;
+        height: 7.5rem;
+        left: 9.7rem;
+        top: 24.3rem;
+    }
+
+    .container {
+        height: 21rem;
+    }
+
+    #next-btn-3 {
+        bottom: 5rem;
+    }
+
+    #next-btn-3, #next-btn-13, .next-btn-timeline {
+        bottom: 4rem;
+    }
+
+    #next-btn-7 {
+        bottom: 4rem;
+    }
+
+    .card {
+        max-width: 80%;
+        height: 8rem;
+        right: 2rem;
+    }
+
+    .carousel-control-next, .carousel-control-prev {
+        left: 2rem;
+    }
+
+    .flip-card-container {
+        bottom: 12.5rem;
+    }
+
+    #instruction {
+        bottom: 14rem;
+    }
+
+    #next-btn-11 {
+        bottom: 12rem;
+    }
+
+    .nafavid {
+        top: 8rem;
+    }
+
+    #next-btn-15, #next-btn-14 {
+        bottom: 7rem;
+    }
+
+    .connect-question-container {
+        top: 3.2rem;
+        left: 1rem;
+    }
+
+    #def6-exp {
+        bottom: 10.5rem;
+        right: 6rem;
+        width: 18rem;
+    }
+
+    #def5-exp {
+        bottom: 9.5rem;
+        right: 6rem;
+        width: 18rem;
+    }
+
+    #def7-exp {
+        bottom: 10.5rem;
+        left: 8rem;
+        width: 13rem;
+    }
+
+    #def9-exp {
+        bottom: 11.5rem;
+        left: 9rem;
+        width: 12rem;
+    }
+
+    #def8-exp {
+        bottom: 10.5rem;
+        left: 9rem;
+        width: 13rem;
+    }
+
+    .turkeyvid {
+        top: 8rem;
+    }
+
+    .tape {
+        left: 14.5rem;
+        top: 23rem;
+    }
+
+    #rescueCarousel {
+        left: 16.5rem;
+        top: 24.3rem;
+    }
+
+    .abachvid {
+        left: 4rem;
+        width: 18rem;
+        top: 19rem;
+    }
+
+    .batashvid {
+        left: 4rem;
+        width: 18rem;
+        top: 16rem;
+    }
+
+    .sentence-question-container {
+        top: 3rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+
+    .open-text {
+        width: 20rem;
+    }
+
+    .main-title {
+        font-size: 2.2rem;
+    }
+
+    .container {
+        width: 19rem;
+        height: 23rem;
+    }
+
+    #timeline-shahar-img.timeline-symbol-img {
+        position: absolute;
+        bottom:2rem;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .text-container {
+        padding: 0rem 2rem 0rem 1rem;
+    }
+
+    .shahar-text {
+        font-size: 0.9rem;
+    }
+
+    .card {
+        max-width: 100%;
+        right: 0rem;
+    }
+    
+    .carousel-control-next, .carousel-control-prev {
+        left: 0rem;
+    }
+
+    #instruction {
+        bottom: 13rem;
+    }
+
+    .flip-card-container {
+        width: 60%;
+    }
+
+    .american-answer {
+        width: 17rem;
+    }
+
+    #rescueCarousel {
+        left: 4rem;
+    }
+
+    .polaroid {
+        left: 5rem;
+    }
+
+    .tape {
+        left: 12rem;
+    }
+
+    .roles-img {
+        left: 6.2rem;
+    }
+
+    #rescueCarousel {
+        left: 9.7rem;
+    }
+
+    .roles-text {
+        width: 18rem;
+    }
+    
+    .buildingvid {
+        width: 16rem;
+        height: 9rem;
+        top: 22rem;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .daysvid {
+        width: 15rem;
+        height: 9rem;
+        top: 21rem;
+        left: 2rem;
+    }
+
+    .abachvid {
+        left: 3rem;
+        width: 15rem;
+        height: 9rem;
+        top: 21rem;
+    }
+
+    .batashvid {
+        left: 3rem;
+        width: 15rem;
+        height: 9rem;
+        top: 21rem;
+    }
+
+    .st-structure {
+        height: 8.5rem;
+        width: 19.5rem;
+        left: 51%;
+    }
+
+    .st-gdudim {
+        width: 11rem;
+        top: 15rem;
+        left: 52%;
+    }
+
+    .structure-details {
+        width: 19rem;
+        height: 34rem;
+    }
+
+    .details-title {
+        top: 1.3rem;
+        width: 8rem;
+    }
+
+    .hativa-text {
+        width: 19rem;
+        top: 7rem;
+        padding: 3rem;
+    }
+
+    .hativa-details-exp-text {
+        text-align: center;
+        position: relative;
+        top: 20rem;
+        font-size: 0.8rem;
+    }
+
+    .details-conteiner {
+        width: 12rem;
+    }
+
+    #hativa-sym-exp {
+        width: 22rem;
+    }
+
+    #school-details > .details-title {
+        font-size: 1.3rem;
+    }
+
+    #school-details > .details-conteiner {
+        width: 12rem;
+        top: 6rem;
+    }
+
+    .next-right {
+        left: 13rem;
+    }
+
+    #def1-exp {
+        bottom: 14rem;
+        left: 6rem;
+    }
+
+    #def2-exp {
+        bottom: 17.5rem;
+        left: 3.5rem;
+        width: 12rem;
+    }
+
+    #def3-exp {
+        bottom: 14rem;
+        left: 4rem;
+        width: 12rem;
+    }
+
+    #def4-exp {
+        bottom: 22rem;
+        left: 5rem;
+        width: 12rem;
+    }
+
+    #next-btn-3 {
+        bottom: 6rem;
+    }
+
+    .next-btn-timeline {
+        bottom: 5rem;
+    }
+
+    #next-btn-7 {
+        bottom: 3rem;
+    }
+
+    .flip-card-container {
+        width: 70%;
+        bottom: 11rem;
+    }
+
+    #next-btn-11 {
+        bottom: 11rem;
+        display: none;
+    }
+
+    #next-btn-13 {
+        bottom: 7rem;
+    }
+
+    #next-btn-15, #next-btn-14 {
+        bottom: 7rem;
+    }
+
+    #connect-question, .connect-year-container, .connect-event-container {
+        margin-bottom: 0.5rem;
+    }
+
+    .connect-question-container {
+        top: 3.4rem;
+    }
+
+    #next-btn-22 {
+        bottom: 7rem;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    body {
+        left: 0rem;
+        position: relative;
+    } 
+
+    .st-structure {
+        height: 8.5rem;
+        width: 19.5rem;
+        left: 51%;
+        top: 9rem;
+    }
+
+    .st-gdudim {
+        width: 11rem;
+        top: 18rem;
+        left: 52%;
+    }
+
+    .explain-structure {
+        top: 18rem;
+    }
+
+    .st-school {
+        width: 5.5rem;
+        left: 62%;
+        top: 10rem;
+    }
+
+    .st-baf {
+        width: 3.5rem;
+        left: 18%;
+        top: 13rem;
+    }
+
+    .st-bah {
+        width: 3rem;
+        left: 28%;
+        top: 9rem;
+    }
+
+    .st-hativa {
+        top: 4rem;
+        width: 2.5rem;
+    }
+    
+    #timeline-ram-img.timeline-symbol-img {
+        position: absolute;
+        bottom: 7.2rem;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .main-title {
+        font-size: 2rem;
+    }
+
+    .open-text {
+        width: 17rem;
+    }
+
+    .container {
+        width: 17rem;
+        height: 24rem;
+    }
+
+    .sidebar {
+        right: 0.9rem;
+    }
+
+    .enlistingvid {
+        top: 12rem;
+        width: 19rem;
+        height: 11rem;
+    }
+
+    .timeline-text-page {
+        margin: 4rem 2rem;
+        font-size: 0.9rem;
+    }
+
+    .nafavid {
+        top: 12rem;
+        width: 19rem;
+        height: 10rem;
+    }
+
+    .sub-title {
+        font-size: 1.7rem;
+        width: 20rem;
+    }
+
+    .buildingvid {
+        top: 24rem;
+        right: -7rem;
+    }
+
+    .turkeyvid {
+        top: 12rem;
+        width: 19rem;
+        height: 10rem;
+    }
+
+    .flip-card-container {
+        width: 70%;
+    }
+
+    .connect-card {
+        width: 5rem;
+        height: 3.5rem;
+    }
+
+    #rescueCarousel {
+        top: 24.2rem;
+        right: 1.9rem;
+    }
+
+    .polaroid {
+        top: 22rem;
+        height: 13em;
+    }
+
+    .tape {
+        top: 23rem;
+    }
+
+    .roles-text {
+        width: 15rem;
+    }
+
+    .daysvid {
+        width: 15rem;
+        height: 9rem;
+        top: 22rem;
+        left: 2.5rem;
+    }
+
+    .abachvid {
+        left: 2.5rem;
+        width: 15rem;
+        height: 9rem;
+        top: 23rem;
+    }
+
+    .batashvid {
+        left: 2.5rem;
+        width: 15rem;
+        height: 9rem;
+        top: 23rem;
+    }
+
+    #def1-exp {
+        bottom: 13rem;
+        left: 4rem;
+    }
+
+    #def4-exp {
+        bottom: 19rem;
+        left: 4rem;
+        width: 12rem;
+    }
+}
