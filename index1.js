@@ -322,7 +322,7 @@ var page26 = {
     el9: ["div", ["roles-text", "corona-text"], "", "כל זאת על מנת להציל חיים ולאפשר את המשך תפקוד המשק תחת הגבלות הקורונה.", "main-roles"],
     img10: ["assets/images/polaroid.svg", "רקע", "polaroid-corona", "polaroid", "", "main-roles"],
     img11: ["assets/images/tape.svg", "עיצוב", "corona-tape", "tape", "", "main-roles"],
-    img12: ["assets/images/corona-img.JPG", "תמונת קורונה", "corona-img", "roles-img", "", "main-roles"],
+    img12: ["assets/images/corona-img.jpg", "תמונת קורונה", "corona-img", "roles-img", "", "main-roles"],
     img13: ["assets/images/arrow.svg", "המשך", "roles-next-arrow", "next-arrow", "", "main-roles"],
     evLis14: ["roles-next-arrow", "click", "nextPage"]
 }
