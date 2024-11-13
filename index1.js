@@ -1124,6 +1124,10 @@ var correctSelectedAnswersPage35 = ["select-word2", "select-word1", "select-word
 
 
 window.addEventListener("load", (event) => {
+    // initializing vh
+    let vh = window.innerHeight * 0.01;
+    document.documentElement.style.setProperty('--vh', `${vh}px`);
+
     hativaStructure = document.getElementById("st-hativa");
     bafStructure = document.getElementById("st-baf");
     bahStructure = document.getElementById("st-bah");
