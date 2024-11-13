@@ -13,7 +13,7 @@
 
 html, body {
     font-family: "Assistant";
-    font-size: calc(1vh + 1vw + 8px);
+    font-size: calc(1vh + 1vw + 4px);
     direction: rtl;
     overflow: hidden;
     text-align: right;
