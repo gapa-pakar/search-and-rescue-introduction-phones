@@ -20,7 +20,7 @@ html, body {
     -webkit-user-select: none; /* Safari */
     -ms-user-select: none; /* IE 10 and IE 11 */
     user-select: none; /* Standard syntax */
-    min-height: 100svh;
+    max-height: 90svh;
 }
 
 body {
