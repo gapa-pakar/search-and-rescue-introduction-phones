@@ -1336,3 +1336,13 @@
         width: 12rem;
     }
 }
+
+@media only screen and (max-width: 314px) {
+    /* .shahar-text, .bahad16text, .text {
+        font-size: 0.8rem;
+    } */
+
+    html, body {
+        font-size: calc(0.5vh + 0.5vw + 8px);
+    }
+}

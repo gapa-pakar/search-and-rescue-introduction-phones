@@ -20,7 +20,7 @@ html, body {
     -webkit-user-select: none; /* Safari */
     -ms-user-select: none; /* IE 10 and IE 11 */
     user-select: none; /* Standard syntax */
-    height: 90vh;
+    /* height: 100vh; */
     margin: 0;
 }
 
@@ -29,13 +29,14 @@ body {
     background-size: 100vw 104vh;
     background-repeat: no-repeat;
     -webkit-tap-highlight-color: transparent;
+    min-height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
 }   
 
-.js-change-vh {
+/* .js-change-vh {
     background-color: red;
-    height: 100vh;
-    height: calc(var(--vh, 1vh) * 100);
-}
+    
+} */
 
 .loading-gapa {
     position: absolute;
