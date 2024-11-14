@@ -1345,4 +1345,84 @@
     html, body {
         font-size: calc(0.7vh + 0.7vw + 8px);
     }
+
+    /* #start-btn {
+        bottom: 10rem;
+    } */
+
+    /* .next-btn-timeline {
+        bottom: 10rem;
+    } */
+
+    #page {
+        height: calc(80vh);
+    }
+
+    .flip-card-container, #instruction, #next-btn-11 {
+        bottom: 40vh;
+    }
+
+    .structure-details {
+        /* width: 19rem; */
+        height: 30rem;
+    }
+
+    .details-list {
+        font-size: 0.7rem;
+    }
+
+    #structure-gdudim-error {
+        left: 7rem;
+        top: 20rem;
+    }
+
+    #continue-gdudim-exp-next {
+        left: 12rem;
+        top: 17rem;
+    }
+
+    .structure-details-gdud-shahar-exp {
+        top: 2.8rem;
+        left: 11.8rem;
+    }
+
+    .structure-details-gdud-tavor-exp {
+        left: 11.4rem;
+    }
+
+    .structure-details-gdud-kedem-exp {
+        left: 11.4rem;
+    }
+
+    .structure-details-gdud-ram-exp {
+        left: 11.9rem;
+    }
+
+    .structure-details-gdud-shahar {
+        position: relative;
+        right: 2rem;
+    }
+
+    .structure-details-gdud-tavor {
+        right: 1rem;
+    }
+
+    .structure-details-gdud-kedem {
+        right: 0.9rem;
+    }
+
+    .structure-details-gdud-ram {
+        right: 0.5rem
+    }
+
+    #connect-unit1, #connect-unit2, #connect-unit3, #connect-unit4, #connect-unit5, #connect-unit-exp1, #connect-unit-exp2, #connect-unit-exp3, #connect-unit-exp4, #connect-unit-exp5 {
+        width: 10rem;
+        height: 5rem;
+        font-size: 0.56rem;
+    }
+
+    #connect-error-msg {
+        margin-top: 0.5rem;
+    }
+    
 }

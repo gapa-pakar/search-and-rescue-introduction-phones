@@ -310,6 +310,9 @@ body {
     align-items: center;
     position: relative;
     top: -2rem;
+}
+
+button {
     color: black;
 }
 
