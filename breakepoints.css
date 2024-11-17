@@ -546,7 +546,7 @@
     }
 
     .corona-text.roles-text {
-        width: 15rem;
+        width: 80%;
         font-size: 0.8rem;
         line-height: 1.4rem;
     }
@@ -686,7 +686,7 @@
     }
 
     .corona-text.roles-text {
-        width: 12rem;
+        width: 80%;
         font-size: 0.8rem;
         line-height: 1rem;
     }
@@ -704,9 +704,9 @@
         right: 1.9rem;
     }
 
-    .roles-text {
+    /* .roles-text {
         width: 23rem;
-    }
+    } */
 
     .buildingvid {
         width: 18rem;
@@ -1019,9 +1019,9 @@
         left: 9.7rem;
     }
 
-    .roles-text {
+    /* .roles-text {
         width: 18rem;
-    }
+    } */
     
     .buildingvid {
         width: 16rem;
@@ -1292,17 +1292,17 @@
     }
 
     .polaroid {
-        top: 22rem;
-        height: 13em;
+        top: 22.7rem;
+        height: 11.2rem;
     }
 
     .tape {
         top: 23rem;
     }
 
-    .roles-text {
+    /* .roles-text {
         width: 15rem;
-    }
+    } */
 
     .daysvid {
         width: 15rem;
@@ -1363,7 +1363,6 @@
     }
 
     .structure-details {
-        /* width: 19rem; */
         height: 30rem;
     }
 
@@ -1399,7 +1398,6 @@
     }
 
     .structure-details-gdud-shahar {
-        position: relative;
         right: 2rem;
     }
 
@@ -1424,5 +1422,51 @@
     #connect-error-msg {
         margin-top: 0.5rem;
     }
+
+    #def3-exp {
+        bottom: 22rem;
+    }
+
+    #def4-exp {
+        bottom: 32rem;
+    }
+
+    #def7-exp, #def8-exp, #def9-exp {
+        bottom: 19.4rem;
+    }
+
+    #def5-exp, #def6-exp {
+        bottom: 26rem;
+        right: 2rem;
+    }
+
+    .corona-text.roles-text {
+        width: 95%;
+    }
+
+    .multiple-question-title, .multiple-ans-container {
+        width: 17rem;
+    }
     
+    #school-card-1, #school-card-2, #school-card-3, #bah-card-1, #bah-card-2, #bah-card-3, #baf-card-1, #baf-card-2, #baf-card-3 {
+        max-width: 75%;
+        right: 6.5rem;
+    }
+
+    #school-close-card-button, #bah-close-card-button, #baf-close-card-button {
+        right: 7.5rem;
+    }
+
+    .card {
+        top: 0rem;
+    }
+
+    .colored-text {
+        z-index: 5;
+    }
+
+    #def10-exp, #def11-exp, #def12-exp, #def13-exp, #def14-exp {
+        bottom: 20.5rem;
+        right: 5rem;
+    }
 }
