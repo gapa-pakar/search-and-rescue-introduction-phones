@@ -1180,6 +1180,11 @@
         position: relative;
     } 
 
+    .js-change-vh {
+        min-height: 100vh;
+        height: calc(var(--vh, 1vh) * 100);
+    } 
+
     .st-structure {
         height: 8.5rem;
         width: 19.5rem;
@@ -1428,15 +1433,15 @@
     }
 
     #def4-exp {
-        bottom: 32rem;
+        bottom: 25rem;
     }
 
     #def7-exp, #def8-exp, #def9-exp {
-        bottom: 19.4rem;
+        bottom: 12rem;
     }
 
     #def5-exp, #def6-exp {
-        bottom: 26rem;
+        bottom: 20rem;
         right: 2rem;
     }
 
@@ -1466,7 +1471,21 @@
     }
 
     #def10-exp, #def11-exp, #def12-exp, #def13-exp, #def14-exp {
-        bottom: 20.5rem;
+        bottom: 14.4rem;
         right: 5rem;
     }
+
+    .details-conteiner {
+        margin-top: 0.2rem;
+    }
+
+    .buildingvid {
+        left: 1rem;
+    }
+
+    .daysvid, .abachvid, .batashvid {
+        right: 2rem;
+    }
+    
+    
 }
