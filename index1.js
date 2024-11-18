@@ -711,7 +711,7 @@ var page38 = {
     el10: ["div", ["large-connect-card", "connect-card"], "connect-unit-exp2", "מתמחה בהכשרת מפקדים ומדריכים בחילוץ, לחימה, אב''כ , עורף, ובשמירת כשירות הפרט בתחומי ליבת העורף", "connect-event-container"],
     el11: ["div", ["large-connect-card", "connect-card"], "connect-unit-exp3", "מכשיר לוחמים ומפתח את המפקדים למקצועות החילוץ, אב''כ ולוחמה", "connect-event-container"],
     el12: ["div", ["large-connect-card", "connect-card"], "connect-unit-exp4", "תשמש כמפקדה משימתית בחירום ובתוך כך תפעל באירועי חילוץ והצלה בכל זירות המלחמה , לרבות מחוץ לגבולות המדינה ותפקד על מבצעים במרחב האזרחי ברגיעה ובלחימה", "connect-event-container"],
-    el13: ["div", ["large-connect-card", "connect-card"], "connect-unit-exp5", "מתמחה בהובלה וחניכה של אימוני גדודי מילואים בתחומי חילוץ, אב''כ וחי''ר קל, חניכת גדודי החטיבה באימונים בין קווים ותו''כ תע''מ, והובלת קורסים והכשרות בתחומי: חילוץ, רפואה, שו''ב , אנו''ח, הנדסה , צמ''ה, אוכלוסייה", "connect-event-container"],
+    el13: ["div", ["large-connect-card", "connect-card"], "connect-unit-exp5", "מתמחה בהובלה וחניכה של אימוני גדודי מילואים בתחומי חילוץ, אב''כ וחי''ר קל, חניכת גדודי החטיבה באימונים בין קווים ותו''כ תע''מ, והובלת קורסים והכשרות בתחומי: חילוץ, רפואה, שו''ב, אנו''ח, הנדסה, צמ''ה, אוכלוסייה", "connect-event-container"],
     el14: ["button", "", "connect-check-btn", "בדיקה", "connect-question-container"],
     el15: ["div", "connect-error", "connect-error-msg", "עליכם לבחור 2 תשובות בלבד", "connect-question-container"],
     func16: ["connectTwoQuestion"]
@@ -1959,7 +1959,6 @@ var closeDetails = () => {
             }
         }
     }
-    
 }
 
 // questions

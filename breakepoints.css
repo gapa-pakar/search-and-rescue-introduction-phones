@@ -1286,6 +1286,10 @@
         margin-top: 1rem;
     }
 
+    .details-list {
+        font-size: 0.6rem;
+    }
+
     .main-title {
         font-size: 2rem;
     }
@@ -1439,7 +1443,7 @@
         bottom: 8rem;
     }
 
-    #next-btn-11 {
+    #next-btn-11, #finished-structure {
         position: absolute;
         bottom: 14rem;
     }
@@ -1487,6 +1491,10 @@
         margin-left: 2rem;
     }
 
+    .structure-details {
+        height: 30rem;
+    }
+
     #connect-unit1,
     #connect-unit2,
     #connect-unit3,
@@ -1497,9 +1505,13 @@
     #connect-unit-exp3,
     #connect-unit-exp4,
     #connect-unit-exp5 {
-        width: 10rem;
+        width: 8rem;
         height: 5rem;
-        font-size: 0.56rem;
+        font-size: 0.54rem;
+    }
+
+    #re-do-button {
+        bottom: 10rem;
     }
 }
 
@@ -1608,5 +1620,20 @@
     .abachvid,
     .batashvid {
         right: 2rem;
+    }
+
+    #connect-unit1,
+    #connect-unit2,
+    #connect-unit3,
+    #connect-unit4,
+    #connect-unit5,
+    #connect-unit-exp1,
+    #connect-unit-exp2,
+    #connect-unit-exp3,
+    #connect-unit-exp4,
+    #connect-unit-exp5 {
+        width: 10rem;
+        height: 5rem;
+        font-size: 0.56rem;
     }
 }
