@@ -1853,8 +1853,9 @@ var changeSchoolDetailsPart = () => {
             detailsVisited.push("school-a");
         }
     }
-    if (!schoolDetailsVisited) {
+    if (schoolDetailsVisited) {
         document.getElementById("close-btn-structure").addEventListener("click", closeDetails);
+    } else {
         schoolDetailsVisited = true;
     }
 }

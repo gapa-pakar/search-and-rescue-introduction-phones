@@ -14,11 +14,11 @@
     .st-baf {
         left: 36.3%;
     }
-    
+
     .st-bah {
         left: 41.3%;
     }
-    
+
     .st-school {
         left: 57.1%;
     }
@@ -291,7 +291,7 @@
     .emergency-roles {
         top: 15rem;
     }
-    
+
     .roles-img {
         width: 11.2rem;
         height: 7.5rem;
@@ -303,7 +303,7 @@
         top: 14rem;
         left: 10rem;
     }
-    
+
     .tape {
         width: 1rem;
         top: 14.4rem;
@@ -314,84 +314,89 @@
         top: 26.5rem;
         left: 11.2rem;
     }
-    
+
     .st-bah {
         left: 39%;
     }
-    
+
     .st-baf {
         left: 32.7%;
     }
-    
+
     .st-gdudim {
         left: 50.7%;
     }
-    
+
     .st-school {
         left: 59.4%;
     }
-    
+
     .bahad16text {
         font-size: 0.9rem;
     }
-    
+
     .branch-img {
         height: 4rem;
     }
-    
-    .buildingvid, .daysvid, .abachvid, .batashvid {
+
+    .buildingvid,
+    .daysvid,
+    .abachvid,
+    .batashvid {
         width: 17rem;
         height: 10rem;
         top: 10rem;
         left: 2rem;
     }
-    
-    #next-btn-3, #next-btn-13, .next-btn-timeline {
+
+    #next-btn-3,
+    #next-btn-13,
+    .next-btn-timeline {
         bottom: 2rem;
     }
-    
+
     #next-btn-7 {
         bottom: 3rem;
     }
-    
+
     .structure-details {
         width: 34rem;
         top: 5rem;
     }
-    
+
     .details-conteiner {
         width: 27rem;
     }
-    
+
     #bah-details .details-img {
         width: 4rem;
     }
-    
+
     .next-right {
         left: 28rem;
     }
-    
-    #gdudim-details > .details-conteiner {
+
+    #gdudim-details>.details-conteiner {
         width: 30rem;
     }
-    
+
     #def1-exp {
         bottom: 12rem;
         left: 16rem;
     }
-    
+
     #def2-exp {
         bottom: 16.5rem;
         left: 13.5rem;
         width: 12rem;
     }
-    
+
     #def3-exp {
         bottom: 14rem;
         left: 12rem;
         width: 18rem;
     }
-    
+
     #def4-exp {
         bottom: 19rem;
         left: 15rem;
@@ -407,7 +412,7 @@
     ol {
         margin-bottom: 0;
     }
-}    
+}
 
 @media only screen and (max-width: 1050px) {
     #next-btn-2 {
@@ -421,7 +426,7 @@
     .connect-question-container {
         width: 100%;
     }
-    
+
     .organizing-drop-zone {
         width: 47%;
         padding: 0.5rem 0rem;
@@ -431,7 +436,7 @@
         margin: 0.15rem;
         width: calc(48% - 1rem);
     }
-    
+
     .structure-details {
         top: 4rem;
     }
@@ -491,7 +496,7 @@
         left: 24rem;
     }
 
-    #gdudim-details > .details-conteiner {
+    #gdudim-details>.details-conteiner {
         width: 28rem;
     }
 
@@ -530,7 +535,7 @@
     #timeline-magal-img.timeline-symbol-img {
         height: 4.5rem;
     }
-    
+
     .connect-question-container {
         top: 2.2rem;
     }
@@ -574,7 +579,7 @@
         top: 2rem;
         width: 2.5rem;
     }
-    
+
     .st-bah {
         width: 3rem;
         top: 6rem;
@@ -608,13 +613,14 @@
         top: 4rem;
         height: 19rem;
     }
-    
+
     @keyframes hativaSymbolLarger {
         0% {
             width: 3rem;
             top: 1rem;
             left: 1rem;
-        } 
+        }
+
         100% {
             width: 9rem;
             top: 50%;
@@ -629,7 +635,8 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-        } 
+        }
+
         100% {
             transform: translate(0%, 0%);
             width: 3rem;
@@ -674,8 +681,9 @@
     .branch-img {
         height: 2rem;
     }
-    
-    .connect-year-container, .connect-event-container {
+
+    .connect-year-container,
+    .connect-event-container {
         width: 22rem;
         position: relative;
         right: 1rem;
@@ -703,10 +711,6 @@
     .roles-img {
         right: 1.9rem;
     }
-
-    /* .roles-text {
-        width: 23rem;
-    } */
 
     .buildingvid {
         width: 18rem;
@@ -736,7 +740,7 @@
         height: 8.5rem;
         width: 20rem;
     }
-    
+
     .st-bah {
         width: 3.4rem;
         left: 33%;
@@ -776,7 +780,7 @@
         width: 17rem;
     }
 
-    #school-details > .details-conteiner {
+    #school-details>.details-conteiner {
         width: 17rem;
         top: 6rem;
     }
@@ -793,15 +797,21 @@
         left: 18rem;
     }
 
-    #gdudim-details > .details-conteiner {
+    #gdudim-details>.details-conteiner {
         width: 24rem;
     }
 
-    .structure-details-gdud-shahar, .structure-details-gdud-tavor, .structure-details-gdud-kedem, .structure-details-gdud-ram {
+    .structure-details-gdud-shahar,
+    .structure-details-gdud-tavor,
+    .structure-details-gdud-kedem,
+    .structure-details-gdud-ram {
         width: 6rem;
     }
 
-    .structure-details-gdud-shahar-exp, .structure-details-gdud-tavor-exp, .structure-details-gdud-kedem-exp, .structure-details-gdud-ram-exp {
+    .structure-details-gdud-shahar-exp,
+    .structure-details-gdud-tavor-exp,
+    .structure-details-gdud-kedem-exp,
+    .structure-details-gdud-ram-exp {
         width: 15rem;
         top: 1.4rem;
     }
@@ -844,7 +854,9 @@
         bottom: 5rem;
     }
 
-    #next-btn-3, #next-btn-13, .next-btn-timeline {
+    #next-btn-3,
+    #next-btn-13,
+    .next-btn-timeline {
         bottom: 4rem;
     }
 
@@ -858,7 +870,8 @@
         right: 2rem;
     }
 
-    .carousel-control-next, .carousel-control-prev {
+    .carousel-control-next,
+    .carousel-control-prev {
         left: 2rem;
     }
 
@@ -878,7 +891,8 @@
         top: 8rem;
     }
 
-    #next-btn-15, #next-btn-14 {
+    #next-btn-15,
+    #next-btn-14 {
         bottom: 7rem;
     }
 
@@ -982,8 +996,9 @@
         max-width: 100%;
         right: 0rem;
     }
-    
-    .carousel-control-next, .carousel-control-prev {
+
+    .carousel-control-next,
+    .carousel-control-prev {
         left: 0rem;
     }
 
@@ -1019,10 +1034,6 @@
         left: 9.7rem;
     }
 
-    /* .roles-text {
-        width: 18rem;
-    } */
-    
     .buildingvid {
         width: 16rem;
         height: 9rem;
@@ -1095,11 +1106,11 @@
         width: 22rem;
     }
 
-    #school-details > .details-title {
+    #school-details>.details-title {
         font-size: 1.3rem;
     }
 
-    #school-details > .details-conteiner {
+    #school-details>.details-conteiner {
         width: 12rem;
         top: 6rem;
     }
@@ -1157,11 +1168,14 @@
         bottom: 7rem;
     }
 
-    #next-btn-15, #next-btn-14 {
+    #next-btn-15,
+    #next-btn-14 {
         bottom: 7rem;
     }
 
-    #connect-question, .connect-year-container, .connect-event-container {
+    #connect-question,
+    .connect-year-container,
+    .connect-event-container {
         margin-bottom: 0.5rem;
     }
 
@@ -1178,12 +1192,12 @@
     body {
         left: 0rem;
         position: relative;
-    } 
+    }
 
     .js-change-vh {
         min-height: 100vh;
         height: calc(var(--vh, 1vh) * 100);
-    } 
+    }
 
     .st-structure {
         height: 8.5rem;
@@ -1224,12 +1238,43 @@
         top: 4rem;
         width: 2.5rem;
     }
-    
+
     #timeline-ram-img.timeline-symbol-img {
         position: absolute;
-        bottom: 7.5rem;
+        bottom: 14rem;
         left: 50%;
         transform: translate(-50%, -50%);
+    }
+
+    #timeline-shahar-img.timeline-symbol-img {
+        bottom: 8rem;
+    }
+
+    .next-arrow {
+        bottom: 7rem;
+    }
+
+    #school-card-1,
+    #school-card-2,
+    #school-card-3,
+    #bah-card-1,
+    #bah-card-2,
+    #bah-card-3,
+    #baf-card-1,
+    #baf-card-2,
+    #baf-card-3 {
+        max-width: 75%;
+        right: 6.5rem;
+    }
+
+    #school-close-card-button,
+    #bah-close-card-button,
+    #baf-close-card-button {
+        right: 7.5rem;
+    }
+
+    .card {
+        top: 0rem;
     }
 
     .main-title {
@@ -1284,6 +1329,7 @@
 
     .flip-card-container {
         width: 70%;
+        bottom: 17rem;
     }
 
     .connect-card {
@@ -1304,10 +1350,6 @@
     .tape {
         top: 23rem;
     }
-
-    /* .roles-text {
-        width: 15rem;
-    } */
 
     .daysvid {
         width: 15rem;
@@ -1335,44 +1377,67 @@
         left: 4rem;
     }
 
+    #def2-exp {
+        bottom: 6rem;
+    }
+
+    #def3-exp {
+        bottom: 22rem;
+    }
+
     #def4-exp {
-        bottom: 19rem;
-        left: 4rem;
-        width: 12rem;
-    }
-}
-
-@media only screen and (max-width: 400px) {
-    /* .shahar-text, .bahad16text, .text {
-        font-size: 0.8rem;
-    } */
-
-    html, body {
-        font-size: calc(0.7vh + 0.7vw + 8px);
+        bottom: 25rem;
     }
 
-    /* #start-btn {
-        bottom: 10rem;
-    } */
-
-    /* .next-btn-timeline {
-        bottom: 10rem;
-    } */
-
-    #page {
-        height: calc(80vh);
+    #def7-exp,
+    #def8-exp,
+    #def9-exp {
+        bottom: 12rem;
+        right: 2rem;
     }
 
-    .flip-card-container, #instruction, #next-btn-11 {
-        bottom: 40vh;
+    #def5-exp,
+    #def6-exp {
+        bottom: 20rem;
+        right: 2rem;
+        width: 15rem;
     }
 
-    .structure-details {
-        height: 30rem;
+    #def10-exp,
+    #def11-exp,
+    #def12-exp,
+    #def13-exp,
+    #def14-exp {
+        bottom: 14.4rem;
+        right: 5rem;
     }
 
-    .details-list {
-        font-size: 0.7rem;
+    .colored-text {
+        z-index: 5;
+    }
+
+    .corona-text.roles-text, .roles-text {
+        width: 95%;
+        font-size: 0.9rem;
+    }
+
+    .multiple-question-title,
+    .multiple-ans-container {
+        width: 17rem;
+    }
+
+    #next-btn-7 {
+        bottom: 8rem;
+    }
+
+    #next-btn-11 {
+        position: absolute;
+        bottom: 14rem;
+    }
+
+    .page13-title {
+        top: 4rem;
+       right: 1rem;
     }
 
     #structure-gdudim-error {
@@ -1385,80 +1450,136 @@
         top: 17rem;
     }
 
-    .structure-details-gdud-shahar-exp {
-        top: 2.8rem;
-        left: 11.8rem;
+    .structure-details-gdud-shahar-exp,
+    .structure-details-gdud-tavor-exp,
+    .structure-details-gdud-kedem-exp,
+    .structure-details-gdud-ram-exp {
+        position: absolute;
     }
-
-    .structure-details-gdud-tavor-exp {
-        left: 11.4rem;
+    
+    .structure-details-gdud-shahar-exp {
+        right: -3.9rem;
+        top: 3.2rem;
     }
 
     .structure-details-gdud-kedem-exp {
-        left: 11.4rem;
+        right: -2.6rem;
     }
 
+    .structure-details-gdud-tavor-exp,
     .structure-details-gdud-ram-exp {
-        left: 11.9rem;
+        right: -3rem;
     }
 
-    .structure-details-gdud-shahar {
-        right: 2rem;
-    }
-
-    .structure-details-gdud-tavor {
-        right: 1rem;
-    }
-
-    .structure-details-gdud-kedem {
-        right: 0.9rem;
-    }
-
+    .structure-details-gdud-shahar,
+    .structure-details-gdud-tavor,
+    .structure-details-gdud-kedem,
     .structure-details-gdud-ram {
-        right: 0.5rem
+        margin-left: 2rem;
     }
 
-    #connect-unit1, #connect-unit2, #connect-unit3, #connect-unit4, #connect-unit5, #connect-unit-exp1, #connect-unit-exp2, #connect-unit-exp3, #connect-unit-exp4, #connect-unit-exp5 {
+    #connect-unit1,
+    #connect-unit2,
+    #connect-unit3,
+    #connect-unit4,
+    #connect-unit5,
+    #connect-unit-exp1,
+    #connect-unit-exp2,
+    #connect-unit-exp3,
+    #connect-unit-exp4,
+    #connect-unit-exp5 {
         width: 10rem;
         height: 5rem;
         font-size: 0.56rem;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    html,
+    body {
+        font-size: calc(0.7vh + 0.7vw + 8px);
+    }
+
+    #page {
+        height: calc(80vh);
+    }
+
+    .flip-card-container,
+    #instruction,
+    #next-btn-11 {
+        bottom: 40vh;
+    }
+
+    #next-btn-3,
+    #next-btn-13,
+    .next-btn-timeline {
+        bottom: 2rem;
+    }
+
+    #next-btn-7 {
+        bottom: 3rem;
+    }
+
+    .structure-details {
+        height: 30rem;
+    }
+
+    .details-list {
+        font-size: 0.7rem;
     }
 
     #connect-error-msg {
         margin-top: 0.5rem;
     }
 
-    #def3-exp {
-        bottom: 22rem;
+    #def2-exp {
+        bottom: 15rem;
     }
 
-    #def4-exp {
-        bottom: 25rem;
+    #timeline-shahar-img.timeline-symbol-img {
+        position: absolute;
+        bottom: 2rem;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 
-    #def7-exp, #def8-exp, #def9-exp {
-        bottom: 12rem;
+    #timeline-ram-img.timeline-symbol-img {
+        position: absolute;
+        bottom: 7.5rem;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 
-    #def5-exp, #def6-exp {
-        bottom: 20rem;
-        right: 2rem;
-    }
-
-    .corona-text.roles-text {
+    .corona-text.roles-text, .roles-text {
         width: 95%;
+        font-size: 1rem;
     }
 
-    .multiple-question-title, .multiple-ans-container {
+    .next-arrow {
+        bottom: 4rem;
+    }
+
+    .multiple-question-title,
+    .multiple-ans-container {
         width: 17rem;
     }
-    
-    #school-card-1, #school-card-2, #school-card-3, #bah-card-1, #bah-card-2, #bah-card-3, #baf-card-1, #baf-card-2, #baf-card-3 {
+
+    #school-card-1,
+    #school-card-2,
+    #school-card-3,
+    #bah-card-1,
+    #bah-card-2,
+    #bah-card-3,
+    #baf-card-1,
+    #baf-card-2,
+    #baf-card-3 {
         max-width: 75%;
         right: 6.5rem;
     }
 
-    #school-close-card-button, #bah-close-card-button, #baf-close-card-button {
+    #school-close-card-button,
+    #bah-close-card-button,
+    #baf-close-card-button {
         right: 7.5rem;
     }
 
@@ -1466,26 +1587,21 @@
         top: 0rem;
     }
 
-    .colored-text {
-        z-index: 5;
-    }
-
-    #def10-exp, #def11-exp, #def12-exp, #def13-exp, #def14-exp {
-        bottom: 14.4rem;
-        right: 5rem;
-    }
-
     .details-conteiner {
         margin-top: 0.2rem;
+    }
+
+    #school-details>.details-title {
+        margin-bottom: 0.5rem;
     }
 
     .buildingvid {
         left: 1rem;
     }
 
-    .daysvid, .abachvid, .batashvid {
+    .daysvid,
+    .abachvid,
+    .batashvid {
         right: 2rem;
     }
-    
-    
 }
