@@ -1277,6 +1277,11 @@
         top: 0rem;
     }
 
+    #school-details>.details-title {
+        width: 60%;
+        font-size: 1.4rem;
+    }
+
     .main-title {
         font-size: 2rem;
     }
@@ -1587,13 +1592,9 @@
         top: 0rem;
     }
 
-    .details-conteiner {
+    /* .details-conteiner {
         margin-top: 0.2rem;
-    }
-
-    #school-details>.details-title {
-        margin-bottom: 0.5rem;
-    }
+    } */
 
     .buildingvid {
         left: 1rem;
