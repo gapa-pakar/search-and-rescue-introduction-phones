@@ -1158,10 +1158,7 @@ const startLomda = () => {
             }
         }
     });
-    menuBtn.addEventListener('click', () => {
-        sidebar.style.display = sidebar.style.display === 'none' || sidebar.style.display === '' ? 'block' : 'none';
-        updateMenuItemState(); // Update the item states each time menu is toggled
-    });
+    menuBtn.addEventListener('click', enableMenu);
     // Close sidebar when clicking outside
     document.addEventListener('click', (e) => {
         if (sidebar.style.display === 'block' && !sidebar.contains(e.target) && e.target !== menuBtn) {
@@ -1268,6 +1265,11 @@ const startLomda = () => {
     updateMenuItemState();
 }
 
+function enableMenu() {
+    sidebar.style.display = sidebar.style.display === 'none' || sidebar.style.display === '' ? 'block' : 'none';
+    updateMenuItemState(); // Update the item states each time menu is toggled
+};
+
 function updateMenuItemState() {
     document.querySelectorAll('.dropdown-menu li, .dropdown > a > span').forEach(item => {
         pageNum = parseInt(item.id.split('-').pop());
@@ -1282,6 +1284,7 @@ function updateMenuItemState() {
 }
 
 const createScreen = (currObject) => {
+    menuBtn.removeEventListener('click', enableMenu);
     let openContentKeys = Object.keys(currObject);
     for (let i = 1; i <= openContentKeys.length; i++) {
         if (openContentKeys[i - 1].includes("el")) {
@@ -1305,6 +1308,9 @@ const createScreen = (currObject) => {
             createCarousel(window[carouselObject]);
         }
     }
+    setTimeout(() => {
+        menuBtn.addEventListener('click', enableMenu);
+    }, 4000);
 }
 
 const createTextElement = (list) => {
