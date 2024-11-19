@@ -107,7 +107,7 @@ var page8 = {
 var page9 = {
     el1: ["div", "timeline-text-page", "timeline-text-container", "", "page"], 
     el2: ["div", "title", "timeline-title", "2011- המעבר ממג''ל לפקע''ר", "timeline-text-container"],
-    el3: ["div", "", "", "בשנת 2011 פיקוד העורף קיבל את האחריות על מחנה זיקים שעד אז, היה בכפיפות מג''ל.\nכלל המתגייסים ללוחמה בפיקוד העורף בין השנים 2009-2011 עברו הכשרה אשר הייתה מחולקת לשני חלקים: סגל מג''ל העביר למתגייסים החדשים את פרק הטירונות, ואת נושאי העורף העבירו מפקדים מפיקוד העורף. \nהידעת? במחזור הראשון שהתגייס ללוחמה בפיקוד העורף היו 80 חיילים בפלוגה. לצורך השוואה- במחזור הגיוס מרץ 2024, היו כ140 חיילים בפלוגה! ", "timeline-text-container"],
+    el3: ["div", "", "", "בשנת 2011 פיקוד העורף קיבל את האחריות על מחנה זיקים שעד אז, היה בכפיפות מג''ל.\nכלל המתגייסים ללוחמה בפיקוד העורף בין השנים 2009-2011 עברו הכשרה אשר הייתה מחולקת לשני חלקים: סגל מג''ל העביר למתגייסים החדשים את פרק הטירונות, ואת נושאי העורף העבירו מפקדים מפיקוד העורף.", "timeline-text-container"],
     img4: ["assets/images/magal.png", "מערך מגל", "timeline-magal-img", ["timeline-symbol-img", "shield-sym"], "", "timeline-text-container"],
     el5: ["button", "next-btn-timeline", "next-btn-9", "אני רוצה להמשיך!", "timeline-text-container"]
 }
@@ -612,7 +612,7 @@ var page34 = {
     el61: ["option", "", "", "במרחב האזרחי", "select-complete-3", "", "select-word15"],
     el62: ["option", "", "", "מפקדה משימתית", "select-complete-3", "", "select-word16"],
     el63: ["option", "", "", "מלחמה", "select-complete-3", "", "select-word17"],
-    el64: ["span", "", "", " גבולות מדינת ישראל ותפקד על מבצעים ", "sentence"],
+    el64: ["span", "", "", " לגבולות מדינת ישראל ותפקד על מבצעים ", "sentence"],
     el65: ["select", "select-complete-sentence", "select-complete-4", "", "sentence", "", "select-complete-4"],
     el66: ["option", "select-default", "", "בחר:", "select-complete-4", "", "0"],
     el67: ["option", "", "", "חילוץ", "select-complete-4", "", "select-word1"],
@@ -726,20 +726,22 @@ var page39 = {
     el6: ["div", "multiple-answer-cont", "multiple-ans3", "", "multiple-ans-container"],
     el7: ["div", "multiple-answer-cont", "multiple-ans4", "", "multiple-ans-container"],
     el8: ["div", "multiple-answer-cont", "multiple-ans5", "", "multiple-ans-container"],
-    el9: ["span", "multiple-answer", "", "", "multiple-ans1"],
-    el10: ["span", "", "", "לש''ב", "multiple-ans1"],
-    el11: ["span", "multiple-answer", "", "", "multiple-ans2"],
-    el12: ["span", "", "", "חילוץ", "multiple-ans2"],
-    el13: ["span", "multiple-answer", "", "", "multiple-ans3"],
-    el14: ["span", "", "", "כושר גופני", "multiple-ans3"],
-    el15: ["span", "multiple-answer", "", "", "multiple-ans4"],
-    el16: ["span", "", "", "מנהיגות ופיקוד", "multiple-ans4"],
-    el17: ["span", "multiple-answer", "", "", "multiple-ans5"],
-    el18: ["span", "", "", "אב''כ", "multiple-ans5"],
-    el19: ["button", "", "multiple-check-btn", "בדיקה", "multiple-question-container"],
-    el20: ["div", "multiple-error", "", "יש לבחור תשובה על מנת לבדוק את השאלה", "multiple-question-container"],
-    func21: ["multipleAnswersQuestion"]
-
+    el9: ["div", "multiple-answer-cont", "multiple-ans6", "", "multiple-ans-container"],
+    el10: ["span", "multiple-answer", "", "", "multiple-ans1"],
+    el11: ["span", "", "", "לש''ב", "multiple-ans1"],
+    el12: ["span", "multiple-answer", "", "", "multiple-ans2"],
+    el13: ["span", "", "", "חילוץ", "multiple-ans2"],
+    el14: ["span", "multiple-answer", "", "", "multiple-ans3"],
+    el15: ["span", "", "", "כושר גופני", "multiple-ans3"],
+    el16: ["span", "multiple-answer", "", "", "multiple-ans4"],
+    el17: ["span", "", "", "מנהיגות ופיקוד", "multiple-ans4"],
+    el18: ["span", "multiple-answer", "", "", "multiple-ans5"],
+    el19: ["span", "", "", "אב''כ", "multiple-ans5"],
+    el20: ["span", "multiple-answer", "", "", "multiple-ans6"],
+    el21: ["span", "", "", "לוחמה", "multiple-ans6"],
+    el22: ["button", "", "multiple-check-btn", "בדיקה", "multiple-question-container"],
+    el23: ["div", "multiple-error", "", "יש לבחור תשובה על מנת לבדוק את השאלה", "multiple-question-container"],
+    func24: ["multipleAnswersQuestion"]
 }
 
 var page40 = {
@@ -890,7 +892,7 @@ const schoolDetailsB = {
 const gdudimDetails = {
     el1: ["div", "structure-details", "gdudim-details", "", "page"],
     img2: ["assets/images/close-btn.svg", "X", "close-btn-structure", "close-details-btn", "", "gdudim-details"],
-    el3: ["div", ["title", "details-title"], "", "גדודים", "gdudim-details"],
+    el3: ["div", ["title", "details-title"], "", "סמלי הגדודים", "gdudim-details"],
     el4: ["div", "details-conteiner", "details-conteiner", "", "gdudim-details"],
     img5: ["assets/images/gdud-shahar.svg", "", "", "structure-details-gdud-shahar", "", "details-conteiner"],
     img6: ["assets/images/gdud-tavor.svg", "", "", "structure-details-gdud-tavor", "", "details-conteiner"],
@@ -1021,7 +1023,7 @@ let multipleCorrectSelectedCount = 0;
 let multipleTotalCorrect; // Number of correct answers for the first question
 let multipleCorrectAnswers;
 let multipleCorrectAnswers1 = ['multiple-ans1', 'multiple-ans2', 'multiple-ans4'];
-let multipleCorrectAnswers2 = ['multiple-ans2', 'multiple-ans5'];
+let multipleCorrectAnswers2 = ['multiple-ans2', 'multiple-ans5', 'multiple-ans6'];
 let chooseSelectedCards = [];
 let chooseCorrectAnswersSelected = 0;
 const chooseCorrectAnswers = ['choose-ans1', 'choose-ans8'];
@@ -1825,7 +1827,8 @@ const openSchoolDetails = () => {
     currDetails = "school-a";
     if (!detailsVisited.includes("school-a")) {
         detailsVisited.push("school-a");
-    } else {
+    } 
+    if (schoolDetailsVisited) {
         document.getElementById("close-btn-structure").addEventListener("click", closeDetails);
     }
 }
