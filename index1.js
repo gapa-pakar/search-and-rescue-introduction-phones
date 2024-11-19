@@ -1002,12 +1002,6 @@ let gdudimAllowFinish = false;
 let gdudimNextEnabled = true;
 let totalFlipped = 0; 
 let flippedStatus = {card1: false, card2: false, card3: false}; 
-let page3VidFinished = false;
-let page13VidFinished = false;
-let page20VidFinished = false;
-let page23VidFinished = false;
-let page24VidFinished = false;
-let page26VidFinished = false;
 let hativaSymbolVisited = false;
 let hativaSymbolOpen = false;
 let schoolDetailsVisited = false;
@@ -1357,29 +1351,6 @@ const createImgElement = (list) => {
     document.getElementById(list[5]).appendChild(newIMG);
 }
 
-
-const createVideo = (vidList) => {
-    let newVideo = document.createElement("video");
-    newVideo.width = vidList[0];
-    newVideo.height = vidList[1];
-    newVideo.classList.add(vidList[2]);
-    newVideo.setAttribute("id", vidList[3]);
-    newVideo.setAttribute("controls", "controls");
-    newVideo.setAttribute("autoplay", "autoplay");
-    document.getElementById(vidList[4]).appendChild(newVideo);
-    let sourceTag = document.createElement("source");
-    sourceTag.src = vidList[5];
-    sourceTag.setAttribute("type", "video/mp4");
-    newVideo.appendChild(sourceTag);
-    newVideo.onended = () => {
-        window[`page${currPage}VidFinished`] = true;
-        createVidBnt();
-    };
-    if (window[`page${currPage}VidFinished`]) {
-        createVidBnt();
-    }
-}
-
 const addVideo = (vidList) => {
     if (currPage === 3) {
         setTimeout(() => {
@@ -1389,13 +1360,7 @@ const addVideo = (vidList) => {
         document.getElementById(vidList[0]).style.opacity = 1;
     }
     document.getElementById(vidList[0]).style.zIndex = 5;
-    setTimeout(() => {
-        window[`page${currPage}VidFinished`] = true;
-        createVidBnt();
-    }, 0);
-    if (window[`page${currPage}VidFinished`]) {
-        createVidBnt();
-    }
+    createVidBnt();
 }
 
 const videoEnded = () => {
@@ -1618,8 +1583,6 @@ const createVidBnt = () => {
         document.getElementById("roles-next-arrow").addEventListener("click", nextPage);
     }
 }
-
-
 
 const createComplaxTimelineBtn = () => {
     if (!finishButtonAdded) {
