@@ -1274,12 +1274,34 @@
     }
 
     .card {
-        top: 0rem;
+        top: 0rem; 
+    }
+
+    #routineRoles-card-1, #routineRoles-card-2, #routineRoles-card-3, #routineRoles-card-4, #routineRoles-card-6, #routineRoles-card-7, #emergencyRoles-card-1, #emergencyRoles-card-2, #emergencyRoles-card-3, #emergencyRoles-card-4, #emergencyRoles-card-5 {
+        margin-top: 2rem;
+    }
+
+    .carousel-control-next,
+    .carousel-control-prev {
+        left: 0rem;
+        top: 2rem;
     }
 
     #school-details>.details-title {
         font-size: 1.2rem;
         margin-bottom: 10rem;
+    }
+
+    .details-title {
+        font-size: 1.2rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+
+    .hativa-text {
+        top: 5rem;
     }
 
     .details-conteiner {
@@ -1330,7 +1352,7 @@
     }
 
     .buildingvid {
-        top: 24rem;
+        top: 22rem;
         right: -7rem;
     }
 
@@ -1429,7 +1451,8 @@
         z-index: 5;
     }
 
-    .corona-text.roles-text, .roles-text {
+    .corona-text.roles-text,
+    .roles-text {
         width: 95%;
         font-size: 0.9rem;
     }
@@ -1443,14 +1466,15 @@
         bottom: 8rem;
     }
 
-    #next-btn-11, #finished-structure {
+    #next-btn-11,
+    #finished-structure {
         position: absolute;
-        bottom: 14rem;
+        bottom: 9rem;
     }
 
     .page13-title {
         top: 4rem;
-       right: 1rem;
+        right: 1rem;
     }
 
     #structure-gdudim-error {
@@ -1469,7 +1493,7 @@
     .structure-details-gdud-ram-exp {
         position: absolute;
     }
-    
+
     .structure-details-gdud-shahar-exp {
         right: -3.9rem;
         top: 3.2rem;
@@ -1516,6 +1540,7 @@
 }
 
 @media only screen and (max-width: 400px) {
+
     html,
     body {
         font-size: calc(0.7vh + 0.7vw + 8px);
@@ -1529,6 +1554,11 @@
     #instruction,
     #next-btn-11 {
         bottom: 40vh;
+    }
+
+    #instruction {
+        width: 80%;
+        margin: auto;
     }
 
     #next-btn-3,
@@ -1571,7 +1601,8 @@
         transform: translate(-50%, -50%);
     }
 
-    .corona-text.roles-text, .roles-text {
+    .corona-text.roles-text,
+    .roles-text {
         width: 95%;
         font-size: 1rem;
     }
@@ -1631,5 +1662,43 @@
         width: 10rem;
         height: 5rem;
         font-size: 0.56rem;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    #def2-exp {
+        bottom: 16rem;
+    }
+
+    #def3-exp {
+        bottom: 23rem;
+    }
+
+    #def4-exp {
+        bottom: 32rem;
+    }
+
+    #def5-exp,
+    #def6-exp {
+        bottom: 28rem;
+    }
+
+    #def7-exp,
+    #def8-exp,
+    #def9-exp {
+        bottom: 22.4rem;
+    }
+
+    .polaroid {
+        top: 25rem
+    }
+
+    .roles-img,
+    #rescueCarousel {
+        top: 26.6rem;
+    }
+
+    .tape {
+        top: 25.4rem;
     }
 }

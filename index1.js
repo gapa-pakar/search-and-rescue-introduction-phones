@@ -1304,9 +1304,20 @@ const createScreen = (currObject) => {
             createCarousel(window[carouselObject]);
         }
     }
+    
     setTimeout(() => {
         menuBtn.addEventListener('click', enableMenu);
     }, 4000);
+
+    if (currPage === 37 && detailsVisited.length === 6) {
+        if (document.getElementById("explain-structure")) {
+            document.getElementById("explain-structure").remove();
+        }
+        if (!document.getElementById("finished-structure")) {
+            createTextElement(structureFinishBtn);
+            document.getElementById("finished-structure").addEventListener("click", nextPage);
+        }
+    } 
 }
 
 const createTextElement = (list) => {
