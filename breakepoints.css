@@ -95,7 +95,7 @@
     }
 
     #rolesErrorText {
-        top: 17rem;
+        top: 22rem;
     }
 
     .polaroid {
@@ -1277,7 +1277,7 @@
         top: 0rem; 
     }
 
-    #routineRoles-card-1, #routineRoles-card-2, #routineRoles-card-3, #routineRoles-card-4, #routineRoles-card-6, #routineRoles-card-7, #emergencyRoles-card-1, #emergencyRoles-card-2, #emergencyRoles-card-3, #emergencyRoles-card-4, #emergencyRoles-card-5 {
+    #routineRoles-card-1, #routineRoles-card-2, #routineRoles-card-3, #routineRoles-card-4, #routineRoles-card-5, #routineRoles-card-6, #routineRoles-card-7, #emergencyRoles-card-1, #emergencyRoles-card-2, #emergencyRoles-card-3, #emergencyRoles-card-4, #emergencyRoles-card-5 {
         margin-top: 2rem;
     }
 
@@ -1421,7 +1421,7 @@
     }
 
     #def4-exp {
-        bottom: 25rem;
+        bottom: 20rem;
     }
 
     #def7-exp,
@@ -1675,18 +1675,18 @@
     }
 
     #def4-exp {
-        bottom: 32rem;
+        bottom: 20rem;
     }
 
     #def5-exp,
     #def6-exp {
-        bottom: 28rem;
+        bottom: 20rem;
     }
 
     #def7-exp,
     #def8-exp,
     #def9-exp {
-        bottom: 22.4rem;
+        bottom: 14rem;
     }
 
     .polaroid {
